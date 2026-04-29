@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Uday Maruthi 👋
 
-<!--
-**UdayMaruthi/UdayMaruthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst | SQL | Python | Power BI | Excel 
 
-Here are some ideas to get you started:
+I specialize in analyzing data and building dashboards to generate meaningful business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills
+- SQL (Joins, Subqueries, CTEs, Window Functions)
+- Python (Pandas, NumPy)
+- Power BI (DAX, Power Query)
+- Excel (Pivot Tables, VLOOKUP)
+
+---
+
+## 📊 Projects
+🔹 E-Commerce Sales Analytics  
+🔹 Telecom Customer Churn Analysis  
+🔹 Retail Performance Dashboard  
+
+👉 Explore my repositories below for detailed project work.
+
+---
+
+## 📈 What I Do
+- Data Cleaning & Transformation  
+- Exploratory Data Analysis (EDA)  
+- KPI Development & Business Reporting  
+- Dashboard Creation (Power BI)  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/uday-maruthi  
+- GitHub: https://github.com/UdayMaruthi  
