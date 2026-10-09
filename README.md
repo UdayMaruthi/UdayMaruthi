@@ -1,6 +1,6 @@
 # Hi, I'm Uday Maruthi 👋
 
-🎯 Aspiring Data Analyst | SQL | Python | Power BI | Excel 
+🎯 Data Analyst | SQL | Python | Power BI | Excel 
 
 I specialize in analyzing data and building dashboards to generate meaningful business insights.
 
